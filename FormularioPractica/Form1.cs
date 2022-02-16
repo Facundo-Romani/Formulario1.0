@@ -65,7 +65,7 @@ namespace FormularioPractica
             Application.Exit();
         }
 
-        // Mensaje de bienvenida.
+        // Mensaje de bienvenida de la ventana que abre al iniciar la app.
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("Bienvenido!");
